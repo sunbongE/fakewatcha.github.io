@@ -1,3 +1,3 @@
 # Web PJT
 
-📑[link](https://fakewatcha.github.io/)
+📑[link](https://sunbonge.github.io/fakewatcha.github.io/)
